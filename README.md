@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Bharosa! 👋
 
-<!--
-**BharosaGauchan/BharosaGauchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate data science enthusiast with a love for exploring and analyzing data to uncover insights and solve real-world problems.
 
-Here are some ideas to get you started:
+## 🌱 Skills
+- **Programming Languages:** Python, R
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
+- **Data Visualization:** Plotly, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📚 Education
+- **[Bellevue University]**, [Bachelor in Data Science], *Expected Graduation:* [May, 2024]
+
+
+## 💬 About This Profile
+Feel free to explore my projects and repositories. I'm always open to collaborations and new opportunities!
+
