@@ -25,13 +25,22 @@ Beyond the numbers and algorithms, what truly excites me is the potential for im
 - **[Bellevue University]**, [Bachelor in Data Science], *Expected Graduation:* [May, 2024]
 
 
-## 💬 About This Profile
+
+ ## 🔗 GitHub
 Feel free to explore my projects and repositories. I'm always open to collaborations and new opportunities!
 
-## 📧 Contact Me
+- [Project one](https://github.com/AlexiaVasquez1/DSC-450/blob/main/Project%201-week5-%20Impact%20of%20vaccination%20programs%20on%20public%20health%20outcome.ipynb)
+- [Project two](https://github.com/AlexiaVasquez1/DSC-450/blob/5f1efd99a33d9a7dd5336b5a9c26a14f017706c0/Project%202%20-%20Model%20Code)
+- [Project three](https://github.com/AlexiaVasquez1/DSC-450/blob/5f1efd99a33d9a7dd5336b5a9c26a14f017706c0/Project%203%2C%20full%20code)
+
+
+  ## 📧 Contact Me
 
 Feel free to reach out to me via email:
 
 - Email: [bharosa_gauchan@hotmail.com](mailto:example@email.com)
+
+  
+  
 
 
